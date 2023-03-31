@@ -8,6 +8,8 @@
 
 3) Which months show high/low volatility in stock prices as compared to others?
 
+4) Explored GARCH to model Stock Volatility
+
 <h2> Future Plans: </h2>
 
-Building a Streamlit app which will display the forementioned analysis of any Stock Code eneted as Input
+Building a Streamlit app which will display the forementioned analysis of any Stock Code entered as Input
