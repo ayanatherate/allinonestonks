@@ -6,9 +6,11 @@
 
 2) Whats the (average) 30 days/365 days return from this Stock?
 
-3) Which months show high/low volatility in stock prices as compared to others?
+3) Whats the average number of units to buy and days to hold, for an expected return of x%?
 
-4) Explored GARCH to model Stock Volatility
+4) Which months show high/low volatility in stock prices as compared to others?
+
+5) Explored GARCH to model Stock Volatility
 
 <h2> Future Plans: </h2>
 
