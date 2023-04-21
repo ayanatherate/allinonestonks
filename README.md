@@ -1,6 +1,6 @@
 <h1>Key Questions I have tried to answer: </h1>
 
-<h2> Stock Chosen : ASHLEY (NSE) </h2>
+<h2> Stock Chosen : ASHOKLEY (NSE) </h2>
 
 1) Given a day of the week, whats the probability that the Stock Price today will go Up/Down? (Used Bayes)
 
